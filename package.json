@@ -1,0 +1,20 @@
+{
+  "name": "my-demo1",
+  "version": "0.0.0",
+  "description": "testing qunit",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-init": "~0.2.1",
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-qunit": "~0.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
